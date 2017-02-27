@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gilp": "0.0.5",
+    "gulp": "^3.9.1",
+    "gulp-changed-in-place": "^2.0.3",
+    "gulp-htmlmin": "^3.0.0"
+  }
+}
